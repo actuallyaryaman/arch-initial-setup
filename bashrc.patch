@@ -1,0 +1,5 @@
+# from here custom setting --------
+# apt aliases (package management)
+alias in="sudo pacman -S"
+alias upg="sudo pacman -Syu"
+alias purge="sudo pacman -Rs"
